@@ -137,7 +137,7 @@
 - Макет виконано у **Figma**: [Booksy Design](figma.com/design/Q8qeSuzKR9tcbh1Ez9jOX4/Booksy?node-id=5999-10563&t=Hf43hQhV57GAGrpV-0)  
 - Тестування адаптивності через **Chrome DevTools**.  
 - Валідація HTML/CSS — **W3C Validator**.  
-- Оптимізація зображень — **TinyPNG**.  
+- Оптимізація зображень — **squoosh**.  
 - Деплой — **GitHub Pages**.
 
 ---
