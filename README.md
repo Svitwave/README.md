@@ -75,7 +75,7 @@
 | **Ігор Коваленко** | 🧠 Header | [@Ihor-Kovalenko](https://github.com/) |
 | **Ірина Пона** | 💬 Modal Window | [@Ірина-Пона](https://github.com/) |
 | **Skyline** | 💡 Hero Section | [@Skyline](https://github.com/) |
-| **Світлана Дуда** | 📰 Article, 🎉 Events | [@Світлана-Дуда](https://github.com/) |
+| **Світлана Дуда** | 📰 Article, 🎉 Events | [@Світлана-Дуда](https://github.com/Svitwave) |
 | **Євгенія Ріпа** | 📚 Books | [@Yevheniia-Ripa](https://github.com/) |
 | **Дмитро Фарбун** | 💬 Feedbacks | [@Dmytro-Farbun](https://github.com/) |
 | **Максим Сичов** | 📍 Location | [@Максим-Сичов](https://github.com/) |
@@ -93,7 +93,7 @@
 | **Ігор Коваленко** | Header | #... , #... |
 | **Ірина Пона** | Modal Window | #... , #... |
 | **Skyline** | Hero | #... , #... |
-| **Світлана Дуда** | Article + Events | #... , #... |
+| **Світлана Дуда** | Article + Events | #https://github.com/Diamond-FoxUA/codeV1be-js/pull/4, #https://github.com/Diamond-FoxUA/codeV1be-js/pull/13 |
 | **Євгенія Ріпа** | Books | #... , #... |
 | **Дмитро Фарбун** | Feedbacks | #... , #... |
 | **Максим Сичов** | Location | #... |
