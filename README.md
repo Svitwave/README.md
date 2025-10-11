@@ -1,4 +1,4 @@
-# README.md
+
 # README.md
 # 📚 Booksy Project
 
@@ -86,5 +86,5 @@
 > під час навчання в **GoIT FullStack Developer**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with_❤️_by_B5_Group-F06292?style=for-the-badge" alt="Made with love"/>
+  <img src="https://img.shields.io/badge/Made_with_❤️_by_CodeVibe-F06292?style=for-the-badge" alt="Made with love"/>
 </p>
